@@ -1057,3 +1057,6 @@ h4 {
     font-size: 1.5rem;
 }
 
+.link_name{
+    color: inherit;
+}
